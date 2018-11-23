@@ -1,5 +1,5 @@
-var index_name = require("./index.js").name
-var index_height= require("./index.js").height
+var index_name = require('./index.js').name
+var index_height= require('./index.js').height
 
 if (index_name === "Susan") {
     console.log("The name is correct")
