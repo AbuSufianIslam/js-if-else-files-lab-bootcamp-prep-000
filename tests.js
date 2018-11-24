@@ -1,6 +1,6 @@
 var index = require("./index.js");
  
-var index_Name = index.name;
+var index_Name = index.sendName();
 var index_Height = index.height;
 
 
