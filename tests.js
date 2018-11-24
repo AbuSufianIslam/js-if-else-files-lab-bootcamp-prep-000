@@ -12,7 +12,7 @@ if (index_Name === "Susan") {
 
 
 
-if (index_Height === 70) {
+if (parseInt(index_Height) === 70) {
     console.log("The height is correct");
 } else {
     console.log("Expected: 70, Received: "+ index_Height);
