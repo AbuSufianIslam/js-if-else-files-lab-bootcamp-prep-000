@@ -8,6 +8,7 @@ exports.sendName = function() {
 exports.sendHeight = function() {
   return height;
 };
+console.log(name);
 /*if (name === "Susan") {
     console.log("The name is correct");
 } else {
