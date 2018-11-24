@@ -2,13 +2,7 @@
 
 var name = "Susan";
 var height = "70";
-//exports.sendName = function() {
-  //return name;
-//};
-//exports.sendHeight = function() {
-  //return height;
-//};
-console.log(name);
+
 module.exports.name = name;
 module.exports.height = height;
 /*if (name === "Susan") {
