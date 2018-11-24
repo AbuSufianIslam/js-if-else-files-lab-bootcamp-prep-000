@@ -9,6 +9,8 @@ var height = "70";
   //return height;
 //};
 console.log(name);
+module.exports.name = name;
+module.exports.height = height;
 /*if (name === "Susan") {
     console.log("The name is correct");
 } else {
